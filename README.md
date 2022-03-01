@@ -1,3 +1,6 @@
+# Temp-App
+Temperature app helps us to analyze temperature data of any place for last 5 days
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
